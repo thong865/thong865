@@ -9,7 +9,7 @@
 <div style="display: flex;">
   <div style="width:50%">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thong865&layout=pie&langs_count=20&custom_title=Language BackEnd Used)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thong865&layout=pie&langs_count=20&custom_title=Language_BackEnd_Used)
   
   </div>
   <div style="width:50%">
